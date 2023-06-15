@@ -1,0 +1,5 @@
+﻿  Lab3.cpp
+  PokerGame.cpp
+d:\desktop\oop\lab3\lab3\pokergame.cpp(7): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  Lab3.vcxproj -> D:\Desktop\OOP\Lab3\Lab3\Debug\Lab3.exe

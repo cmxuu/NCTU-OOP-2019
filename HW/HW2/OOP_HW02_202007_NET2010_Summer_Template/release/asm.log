@@ -1,0 +1,17 @@
+﻿  mySystem_GraphSystem.cpp
+D:\Desktop\hw02_oop_summer\OOP_HW02_202007_NET2010_Summer_Template\inc\GL/gl.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\Desktop\hw02_oop_summer\OOP_HW02_202007_NET2010_Summer_Template\inc\GL/gl.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(180): warning C4244: '引數' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(180): warning C4244: '引數' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(181): warning C4244: '引數' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(181): warning C4244: '引數' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(198): warning C4244: '正在初始化' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(199): warning C4244: '正在初始化' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(210): warning C4244: '引數' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(210): warning C4244: '引數' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(271): warning C4244: '引數' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(271): warning C4244: '引數' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(D:\Desktop\hw02_oop_summer\OOP_HW02_202007_NET2010_Summer_Template\Release\SelfMotivatedSystem.exe) 與 Linker 的 OutputFile 屬性值 (D:\Desktop\hw02_oop_summer\OOP_HW02_202007_NET2010_Summer_Template\bin\Release\SelfMotivatedSystem.exe) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+  正在產生程式碼
+  已完成程式碼產生
+  asm.vcxproj -> D:\Desktop\hw02_oop_summer\OOP_HW02_202007_NET2010_Summer_Template\Release\SelfMotivatedSystem.exe

@@ -1,0 +1,12 @@
+﻿  mySystem_QuaticFunction.cpp
+D:\Desktop\OOP\hw01_oop_summer\OOP_HW01_NET2010_202007_Summer_Template\inc\GL/gl.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\Desktop\OOP\hw01_oop_summer\OOP_HW01_NET2010_202007_Summer_Template\inc\GL/gl.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_QuaticFunction.cpp(41): warning C4305: '正在初始化' : 從 'double' 轉換為 'float'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_QuaticFunction.cpp(42): warning C4305: '正在初始化' : 從 'double' 轉換為 'float'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_QuaticFunction.cpp(43): warning C4305: '正在初始化' : 從 'double' 轉換為 'float'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_QuaticFunction.cpp(44): warning C4305: '正在初始化' : 從 'double' 轉換為 'float'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(D:\Desktop\OOP\hw01_oop_summer\OOP_HW01_NET2010_202007_Summer_Template\Release\myFirstSystem.exe) 與 Linker 的 OutputFile 屬性值 (D:\Desktop\OOP\hw01_oop_summer\OOP_HW01_NET2010_202007_Summer_Template\bin\Release\enjoy_programming.exe) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(992,5): warning MSB8012: TargetName(myFirstSystem) 與 Linker 的 OutputFile 屬性值 (enjoy_programming) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+  正在產生程式碼
+  已完成程式碼產生
+  asm.vcxproj -> D:\Desktop\OOP\hw01_oop_summer\OOP_HW01_NET2010_202007_Summer_Template\Release\myFirstSystem.exe

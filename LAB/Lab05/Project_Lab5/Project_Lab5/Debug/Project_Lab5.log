@@ -1,0 +1,21 @@
+﻿  Matrix.cpp
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(39): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(41): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(58): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(60): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(80): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(82): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(84): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(103): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(104): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(112): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(114): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(117): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(120): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(175): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(178): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(181): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(188): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(196): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\oop\lab5\lab5_template\matrix.cpp(197): warning C4018: '<': signed/unsigned 不相符
+  Project_Lab5.vcxproj -> D:\Desktop\OOP\Lab5\Project_Lab5\Debug\Project_Lab5.exe

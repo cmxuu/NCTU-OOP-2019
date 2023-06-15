@@ -1,0 +1,52 @@
+﻿已經開始建置於 2020/7/15 下午 04:59:55。
+     1>節點 2 (build 目標) 上的專案 "D:\Desktop\OOC\hw01_oop_summer\OOP_HW01_NET2010_202007_Summer_Template\asm.vcxproj"。
+     1>InitializeBuildStatus:
+         正在變更時間戳記 "Debug\myFirstSystem.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+       ManifestResourceCompile:
+         所有輸出都是最新的。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(D:\Desktop\OOC\hw01_oop_summer\OOP_HW01_NET2010_202007_Summer_Template\Debug\myFirstSystem.exe) 與 Linker 的 OutputFile 屬性值 (D:\Desktop\OOC\hw01_oop_summer\OOP_HW01_NET2010_202007_Summer_Template\bin\Debug\myFirstSystem.exe) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\bin\Debug\myFirstSystem.exe" /INCREMENTAL /NOLOGO /LIBPATH:.\Irvine /LIBPATH:.\lib /LIBPATH:.\lib\IL user32.lib irvine32.lib devil.lib ilu.lib ilut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\myFirstSystem.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Desktop\OOC\hw01_oop_summer\OOP_HW01_NET2010_202007_Summer_Template\Debug\myFirstSystem.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"D:\Desktop\OOC\hw01_oop_summer\OOP_HW01_NET2010_202007_Summer_Template\Debug\myFirstSystem.lib" /MACHINE:X86 Debug\myFirstSystem.exe.embed.manifest.res
+         Debug\mySystem_QuaticFunction.obj
+         Debug\basic_app.obj
+         Debug\main.obj
+         Debug\mySystem_MonteCarlo.obj
+         Debug\mySystem_StudentRecordManager.obj
+         Debug\mySystemApp.obj
+         Debug\mySystemApp_draw.obj
+         Debug\mySystemApp_HandleEvents.obj
+         Debug\camera.obj
+         Debug\opengl_stuff.obj
+         Debug\painter_draw.obj
+         Debug\openGLapp.obj
+         Debug\openGLapp.events.obj
+         Debug\openGLapp_draw.obj
+         Debug\openGLapp_init.obj
+         Debug\openGLapp_update.obj
+         Debug\basic_tools.obj
+         Debug\grid2D.obj
+         Debug\provider.obj
+         Debug\vector3d.obj
+         Debug\fileReader.obj
+         Debug\imageReader.obj
+         Debug\BG_grid2D.obj
+         Debug\boardGame.obj
+         Debug\painter.obj
+         Debug\boardGameApp.obj
+         Debug\freeCanvas2D.obj
+         Debug\lattice_manager.obj
+         Debug\paintingSystem.obj
+         Debug\paintingSystemApp.obj
+         Debug\paintingSystemApp_draw.obj
+         Debug\paintingSystemApp_HandleEvents.obj
+         Debug\texture.obj
+         Debug\textureManager.obj
+         Debug\textureManager_read.obj
+     1>LINK : fatal error LNK1104: 無法開啟檔案 'irvine32.lib'
+     1>專案 "D:\Desktop\OOC\hw01_oop_summer\OOP_HW01_NET2010_202007_Summer_Template\asm.vcxproj" (build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.12
